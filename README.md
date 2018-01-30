@@ -21,7 +21,7 @@ Kong can easily be provisioned to Kubernetes cluster using the following steps:
     and use the manifest files provided in the `minikube` directory.
 
     Skip stepping 3 if you have already provisioned a cluster and registered it
-    with Kubernetes.
+    with Kubernetes.fff
 
     Note: Included manifest files only support Kong v0.11.x, for 0.10.x please
     checkout the [tag 1.0.0](https://github.com/Kong/kong-dist-kubernetes/tree/1.0.0)
