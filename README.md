@@ -18,9 +18,9 @@ Kong can easily be provisioned to Kubernetes cluster using the following steps:
     $ cd kong-dist-kubernetes
     ```
     If you want to run Kubernetes locally, please follow the [README](/minikube)
-    and use the manifest files provided in `minikube` directory.
+    and use the manifest files provided in the `minikube` directory.
 
-    Skip to step 3 if you have already provisioned a cluster and registered it
+    Skip stepping 3 if you have already provisioned a cluster and registered it
     with Kubernetes.
 
     Note: Included manifest files only support Kong v0.11.x, for 0.10.x please
